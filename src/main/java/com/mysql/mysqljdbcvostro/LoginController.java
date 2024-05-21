@@ -78,12 +78,10 @@ try {
             if (resultSet.next()) {
                 // Login successful
                 showAlert("Login Successful", "Welcome, " + username + "!");
+                
                 openMainForm();
-                
-                
-                
-                
-                
+                             
+                    
                 
                 
                 
